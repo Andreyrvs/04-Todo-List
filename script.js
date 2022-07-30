@@ -3,7 +3,7 @@ const selecionaInput = document.getElementById('texto-tarefa');
 const selecionaBotaoSalvar = document.getElementById('criar-tarefa');
 const selecionaBotaoLimpar = document.getElementById('apaga-tudo');
 const selecionaBotaoLimparCompletos = document.getElementById(
-  'remover-finalizados'
+  'remover-finalizados',
 );
 
 selecionaBotaoSalvar.addEventListener('click', () => {
