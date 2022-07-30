@@ -23,6 +23,11 @@ npm install
 
 ## Executando aplicação
 
+* clone o repositório:
+  ```bash
+  git clone git@github.com:Andreyrvs/todo-list.git
+  ```
+
 * Para rodar a aplicação inslale a extensão:
 
 ![extensão](./live-server.png)
