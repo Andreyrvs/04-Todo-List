@@ -17,15 +17,21 @@ Este projeto trata-se de lista de tarefas onde é possivel *adicionar, seleciona
 Front-end:
 > Desenvolvido usando: HTML, CSS, JavaScript
 
-## Executando aplicação
+## Instalando Dependências
 
 - clone o projeto:
 
   ```bash
-  git clone git@github.com:tryber/sd-020-a-project-todo-list.git
+  git clone git@github.com:Andreyrvs/04-Todo-List.git
   ```
 
-- Para rodar a aplicação inslale a extensão:
+## Executando aplicação
+
+- Para rodar o front-end:
+
+  ```bash
+  cd 04-Todo-List
+  ```
 
 Clique duas vezes no arquivo `index.html`
 
