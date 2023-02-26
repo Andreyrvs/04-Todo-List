@@ -4,7 +4,7 @@
 
 Este projeto trata-se de lista de tarefas onde é possivel *adicionar, selecionar, marcar como concluido, limpar todas as tarefas* ou apenas as marcadas.
 
-## References
+## Aplicação
 
 ![aplicação todo list](./Aplicacao.png)
 
